@@ -285,7 +285,7 @@ You've built it yourself? Cool, this project is for tinkerers!
 
 If you have questions about assembling one, don't hesitate to ask!
 
-If you can't build one yourself, there are official sellers of Sidekick64/RAD/SIDKick: www.restore-store.de (all three projects) and [www.retro-updates.com](http://www.retro-updates.com) (Sidekick64).
+If you can't build one yourself, there are official sellers of Sidekick64/RAD/SIDKick: [www.restore-store.de](https://www.retrobuddys.com) (all three projects) and [www.retro-updates.com](http://www.retro-updates.com) (Sidekick64).
 
 *It is also perfectly fine and appreciated* if someone sells spare PCBs (populated or not) of a PCB-order or manufactures a small batch and offers them on a forum, but I expect the price tag to be lower than that of the aforementioned official sellers.
 
