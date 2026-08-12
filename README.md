@@ -75,7 +75,7 @@ The Sidekick64 software provides a main menu for frequently used features, progr
 
 <img align="right" src="https://raw.githubusercontent.com/frntc/Sidekick64/master/Images/sidekick64_sb.jpg"  height="200">  
 
-This section summarizes building and setting up the hardware. If you're not into building one yourself: [Restore Store](https://restore-store.de) (not my shop) offers pre-assembled Sidekick64s at fair prices.
+This section summarizes building and setting up the hardware. If you're not into building one yourself: [Retro Buddys](https://www.retrobuddys.com/shop/c64/sidekick64-von-frenetic-fuer-c64-c128-c16-4-und-vic20/) (not my shop) offers pre-assembled Sidekick64s at fair prices.
 
 ### PCB ordering
 
